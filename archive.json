@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-04-17T01:12:44.725894+00:00",
+  "timestamp": "2022-04-24T01:07:45.398888+00:00",
   "repo": "samans/draft-ybam-rfc8561bis",
   "labels": [
     {
@@ -49,6 +49,49 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOHLTwws5ILBn1",
+      "title": "Make a recap of previous requirements/discussions about an updated version of RFC",
+      "url": "https://github.com/samans/draft-ybam-rfc8561bis/issues/1",
+      "state": "OPEN",
+      "author": "JonasAhl",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [
+        "JonasAhl"
+      ],
+      "labels": [],
+      "body": "",
+      "createdAt": "2022-04-21T10:43:21Z",
+      "updatedAt": "2022-04-21T10:47:20Z",
+      "closedAt": null,
+      "comments": [
+        {
+          "author": "JonasAhl",
+          "authorAssociation": "COLLABORATOR",
+          "body": "Assigned to Jonas",
+          "createdAt": "2022-04-21T10:46:49Z",
+          "updatedAt": "2022-04-21T10:46:49Z"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "I_kwDOHLTwws5ILDHJ",
+      "title": "Band & Carrier Aggregation",
+      "url": "https://github.com/samans/draft-ybam-rfc8561bis/issues/2",
+      "state": "OPEN",
+      "author": "JonasAhl",
+      "authorAssociation": "COLLABORATOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Consider including support for BCA in the update.\r\nCheck previous discussion on this. See issue #1.",
+      "createdAt": "2022-04-21T10:49:05Z",
+      "updatedAt": "2022-04-21T10:50:11Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
