@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-04-24T01:07:45.398888+00:00",
+  "timestamp": "2022-04-26T01:19:17.254171+00:00",
   "repo": "samans/draft-ybam-rfc8561bis",
   "labels": [
     {
@@ -64,7 +64,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2022-04-21T10:43:21Z",
-      "updatedAt": "2022-04-21T10:47:20Z",
+      "updatedAt": "2022-04-25T07:18:33Z",
       "closedAt": null,
       "comments": [
         {
@@ -73,6 +73,13 @@
           "body": "Assigned to Jonas",
           "createdAt": "2022-04-21T10:46:49Z",
           "updatedAt": "2022-04-21T10:46:49Z"
+        },
+        {
+          "author": "JonasAhl",
+          "authorAssociation": "COLLABORATOR",
+          "body": "I have sent a mail with the mail conversations about this topic from March to July 2021.",
+          "createdAt": "2022-04-25T07:18:33Z",
+          "updatedAt": "2022-04-25T07:18:33Z"
         }
       ]
     },
