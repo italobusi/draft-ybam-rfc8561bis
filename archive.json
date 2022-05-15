@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-05-12T01:20:34.834514+00:00",
+  "timestamp": "2022-05-15T01:27:03.497466+00:00",
   "repo": "samans/draft-ybam-rfc8561bis",
   "labels": [
     {
@@ -55,7 +55,7 @@
       "id": "I_kwDOHLTwws5ILBn1",
       "title": "Make a recap of previous requirements/discussions about an updated version of RFC",
       "url": "https://github.com/samans/draft-ybam-rfc8561bis/issues/1",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "JonasAhl",
       "authorAssociation": "COLLABORATOR",
       "assignees": [
@@ -64,8 +64,8 @@
       "labels": [],
       "body": "",
       "createdAt": "2022-04-21T10:43:21Z",
-      "updatedAt": "2022-04-25T07:18:33Z",
-      "closedAt": null,
+      "updatedAt": "2022-05-12T10:06:41Z",
+      "closedAt": "2022-05-12T10:06:41Z",
       "comments": [
         {
           "author": "JonasAhl",
